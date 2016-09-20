@@ -1,0 +1,10 @@
+D:\Facilia\Designer\XmlFiller\XmlFiller\bin\Debug\XmlFiller.exe
+D:\Facilia\Designer\XmlFiller\XmlFiller\bin\Debug\XmlFiller.pdb
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.Form1.resources
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.Properties.Resources.resources
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.csproj.GenerateResource.Cache
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.exe
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.pdb
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.Views.SelectTop.resources
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.Views.VisSomTabel.resources
+D:\Facilia\Designer\XmlFiller\XmlFiller\obj\x86\Debug\XmlFiller.csprojResolveAssemblyReference.cache
